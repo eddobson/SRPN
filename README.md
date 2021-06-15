@@ -17,6 +17,7 @@ Next week you complete Test 3 and Test 4, as well as exploring if there are othe
 6. Your program will be tested on the same 4 tests below AND others that are similar. Successfully completing each step will give you up to 15 marks each. The remaining marks 40 marks are for good programming practice include, commenting, program structure etc. for a total of 100.
 
 # Test 1
+
 The program must be able to input at least two numbers and perform one operation correctly and output.
 Input :
 10
@@ -45,6 +46,7 @@ Input :
 =
 
 # Test 2
+
 The program must be able to handle multiple numbers and multiple operations.
 Input :
 3
@@ -55,6 +57,7 @@ Input :
 *
 +
 =
+
 Input :
 1234
 2345
@@ -67,6 +70,7 @@ d
 =
 
 # test 3
+
 The program must be able to correctly handle saturation.
 Input :
 2147483647
